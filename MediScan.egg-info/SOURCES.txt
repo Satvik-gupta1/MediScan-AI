@@ -1,7 +1,0 @@
-README.md
-setup.py
-MediScan.egg-info/PKG-INFO
-MediScan.egg-info/SOURCES.txt
-MediScan.egg-info/dependency_links.txt
-MediScan.egg-info/requires.txt
-MediScan.egg-info/top_level.txt
