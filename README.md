@@ -131,8 +131,8 @@ Use the Streamlit interface to:
 ---
 
 
-Total images: ~3,836 images
+Total images: ~3,836 images |
 Classes: Heart, Lungs, Bone, Brain
-Format: JPEG images resized to 150×150 / 224×224
+| Format: JPEG images resized to 150×150 / 224×224
 
 ---
