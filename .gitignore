@@ -34,6 +34,11 @@ datasets/
 *.zip
 *.tar
 *.tar.gz
+*.pth
+*.pt
+*.zip
+*.tar
+*.rar
 
 # ---- Model Weights / Checkpoints ----
 *.h5

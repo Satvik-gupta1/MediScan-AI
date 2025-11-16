@@ -1,5 +1,24 @@
-streamlit==1.38.0
-tensorflow==2.17.0
-numpy
-pillow
-matplotlib
+# --- CORE ML/AI STACK ---
+tensorflow==2.19.0
+keras==3.11.1
+numpy==1.26.4
+pandas==2.2.3
+scikit-learn==1.3.0
+scipy==1.15.2
+opencv-python==4.12.0.88
+h5py==3.14.0
+
+# --- VISUALIZATION ---
+matplotlib==3.7.1
+seaborn==0.12.2
+
+# --- DEPLOYMENT/UI (optional, keep if you use Streamlit) ---
+streamlit==1.48.0
+plotly==6.2.0
+
+# --- UTILITIES ---
+requests==2.32.3
+pillow==11.2.1
+protobuf==5.29.5
+python-dateutil==2.9.0.post0
+tqdm==4.67.1
