@@ -1,6 +1,6 @@
 MediScan AI: Automated X-ray Analysis (Combines medical context with AI, implies scanning)
 
-# Current Updates
+# Current Updates 2
 # AI X-Ray Organ Analyzer
 
 This project implements a deep learning system that classifies medical X-ray images by organ type — **bone**, **brain**, **heart**, and **lungs** — and uses Grad-CAM to visualize which regions of the image influence each prediction.
