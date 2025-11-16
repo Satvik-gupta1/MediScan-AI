@@ -1,0 +1,97 @@
+# ===============================
+# MediScan-AI Project .gitignore
+# ===============================
+
+# ---- Python ----
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pdb
+*.so
+*.dll
+
+# ---- Environments ----
+venv/
+.env/
+.venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# ---- Jupyter Notebooks ----
+.ipynb_checkpoints/
+*.ipynb_checkpoints/
+
+# ---- Data & Datasets ----
+data/
+dataset/
+datasets/
+*.csv
+*.xlsx
+*.json
+*.zip
+*.tar
+*.tar.gz
+
+# ---- Model Weights / Checkpoints ----
+*.h5
+*.hdf5
+*.ckpt
+*.pb
+*.onnx
+*.pt
+*.pth
+*.tflite
+*.weights
+checkpoints/
+models/
+saved_models/
+
+# ---- Logs / Outputs ----
+logs/
+*.log
+*.out
+*.err
+*.tmp
+output/
+runs/
+results/
+tensorboard/
+events.out.tfevents.*
+
+# ---- System / IDE Files ----
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# ---- Build / Distribution ----
+build/
+dist/
+*.egg-info/
+*.egg
+*.manifest
+*.spec
+
+# ---- Cache ----
+.cache/
+.pytest_cache/
+__pycache__/
+*.pickle
+
+# ---- Credentials / API keys (safety net) ----
+*.key
+*.pem
+*.p12
+*.json  # if you use GCP credentials, comment this out carefully
+secrets/
+config.json
+
+# ---- Misc ----
+*.bak
+*.swp
+*.swo
+*.tmp
+*.old
